@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "autodetect-decoder-stream": "^1.0.3",
+    "iconv-lite": "^0.5.0",
     "moment": "^2.24.0"
   }
 }
